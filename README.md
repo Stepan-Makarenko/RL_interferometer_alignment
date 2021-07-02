@@ -5,7 +5,5 @@ Paper:
 
 Examples of alignment:
 
-![1](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/1.gif)
-![2](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/2.gif)
-![3](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/3.gif)
-![4](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/4.gif)
+![fig1](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/fig1.gif)
+![fig2](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/fig2.gif)
