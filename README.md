@@ -3,4 +3,4 @@ This is the code of paper: Aligning an optical interferometer with beam divergen
 Paper: 
 Examples of alignment:
 
-![1](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/media/blob/master/1.gif)
+![1](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/1.gif)
