@@ -6,8 +6,7 @@ Paper:
 Examples of alignment:
 
 <!-- ![fig1](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/) -->
-<img src="/media/fig1.gif" width="49%" height="49%"/>
-<img src="/media/fig2.gif" width="49%" height="49%"/>
+<img src="/media/fig1.gif" width="49%" height="49%"/> <img src="/media/fig2.gif" width="49%" height="49%"/>
 <!-- ![fig2](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/fig2.gif) -->
 
 ## Requirements
