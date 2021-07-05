@@ -10,7 +10,6 @@ Examples of alignment:
 <!-- ![fig2](https://github.com/Stepan-Makarenko/RL_interferometer_alignment/blob/main/media/fig2.gif) -->
 
 ## Requirements
-The working simulation of the Mach-Zehnder interferometer could be installed from   https://bitbucket.org/dmsoroki/gym_interf/src/master/
-
+The working simulation of the Mach-Zehnder interferometer could be installed from https://github.com/dmitrySorokin/interferobotProject
 ## Training
 The whole training process is described in TD3_training.ipynb notebook.
