@@ -15,6 +15,7 @@ python=3.7.9
 torch=1.6.0
 gym=0.12.1
 numpy=1.19.1
+wandb=0.10.15
 
 ## Training
 The whole training process is described in TD3_training.ipynb notebook.
