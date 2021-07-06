@@ -11,5 +11,9 @@ Examples of alignment:
 
 ## Requirements
 The working simulation of the Mach-Zehnder interferometer could be installed from https://github.com/dmitrySorokin/interferobotProject
+torch == 1.6.0
+gym == 0.12.1
+numpy == 1.19.1
+
 ## Training
 The whole training process is described in TD3_training.ipynb notebook.

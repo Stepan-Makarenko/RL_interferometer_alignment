@@ -1,7 +1,5 @@
 import gym
-import gym_interf
 import numpy as np
-from collections import deque
 
 
 RADIUS = 0.714
