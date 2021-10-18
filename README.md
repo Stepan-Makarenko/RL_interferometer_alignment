@@ -1,7 +1,7 @@
 # Interferometer alignment
 This is the code of paper: Aligning an optical interferometer with beam divergence control and continuous action space.
 
-Paper: 
+Paper: https://arxiv.org/pdf/2107.04457.pdf
 
 Examples of alignment:
 
